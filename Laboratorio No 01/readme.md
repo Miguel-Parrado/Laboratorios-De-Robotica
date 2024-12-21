@@ -29,6 +29,10 @@ Para la realización idonea del laboratorio, se realizó lo siguiente:
 	+ Rx = 0° || Ry = -10°|| Rz = -90°.
 	+ Lo anterior según el marco de referencia World (Ubicado en el centro de la base del robot).
 
+### Flujograma
+
+![](https://github.com/Miguel-Parrado/Laboratorios-De-Robotica/edit/main/Laboratorio%20No%2001/Imagenes/Flujograma.png)
+
 ### Funciones:
 Estas fueron:
 + **MoveL [AlPunto], [Velocidad], [Zona], [Herramienta]**
