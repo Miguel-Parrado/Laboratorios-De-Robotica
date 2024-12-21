@@ -86,7 +86,7 @@ Estas fueron:
 	 - Etiqueta describe el nombre de la linea a la cual GOTO salta.
 
 ### Diseño de Herramienta:
-![](https://github.com/Miguel-Parrado/Laboratorios-De-Robotica/blob/main/Laboratorio%20No%2001/Imagenes/Soporte_Marcador.jpg?raw=true)
+![](https://github.com/Miguel-Parrado/Laboratorios-De-Robotica/blob/main/Laboratorio%20No%2001/Imagenes/Soporte%20Marcador.jpg?raw=true)
 
 ### Código RAPID:
 
