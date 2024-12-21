@@ -1,5 +1,5 @@
 #
-#Laboratorio #01 de Robótica.
+#Laboratorio 01 de Robótica.
 ### Descripción:
 
 Para la realización idonea del laboratorio, se realizó lo siguiente:
