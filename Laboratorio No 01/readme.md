@@ -34,6 +34,7 @@ Para la realización idonea del laboratorio, se realizó lo siguiente:
 ![](https://github.com/Miguel-Parrado/Laboratorios-De-Robotica/blob/main/Laboratorio%20No%2001/Imagenes/Flujograma3.png?raw=true)
 
 ### Plano de Planta:
+![](https://github.com/Miguel-Parrado/Laboratorios-De-Robotica/blob/main/Laboratorio%20No%2001/Imagenes/Plano_de_planta.jpg?raw=true)
 
 ### Funciones:
 Estas fueron:
@@ -85,6 +86,7 @@ Estas fueron:
 	 - Etiqueta describe el nombre de la linea a la cual GOTO salta.
 
 ### Diseño de Herramienta:
+![](https://github.com/Miguel-Parrado/Laboratorios-De-Robotica/blob/main/Laboratorio%20No%2001/Imagenes/Soporte_Marcador.jpg?raw=true)
 
 ### Código RAPID:
 
@@ -412,3 +414,5 @@ Estas fueron:
     ENDMODULE
 
 ### Video:
+
+ [![Ver video](https://github.com/Miguel-Parrado/Laboratorios-De-Robotica/blob/main/Laboratorio%20No%2001/Imagenes/Resultado.jpg?raw=true)](https://drive.google.com/file/d/1tPxiUrl0gpdxZWy1Te5esJTdrfW_wBJK/view?usp=drive_link)
