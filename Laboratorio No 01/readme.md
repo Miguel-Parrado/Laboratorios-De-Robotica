@@ -31,7 +31,7 @@ Para la realización idonea del laboratorio, se realizó lo siguiente:
 
 ### Flujograma:
 
-![](https://github.com/Miguel-Parrado/Laboratorios-De-Robotica/blob/main/Laboratorio%20No%2001/Imagenes/Flujograma.png?raw=true)
+![](https://github.com/Miguel-Parrado/Laboratorios-De-Robotica/blob/main/Laboratorio%20No%2001/Imagenes/Flujograma3.png?raw=true)
 
 ### Plano de Planta:
 
