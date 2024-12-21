@@ -409,6 +409,6 @@ Estas fueron:
         MoveJ p1410,v50,z5,tool1\WObj:=wobj1;
     ENDPROC
     
-ENDMODULE
+    ENDMODULE
 
 ### Video:
